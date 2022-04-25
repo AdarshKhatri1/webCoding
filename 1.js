@@ -1,5 +1,5 @@
 console.log("hello")
 
 // git add .
-//git commit - "Message"
+//git commit -m "Message"
 //git push origin master
